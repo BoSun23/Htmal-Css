@@ -1,0 +1,15 @@
+/*.wrapper {
+    display: flex;
+    justify-content: flex-start;
+}*/
+
+.wrapper {
+    display: flex;
+    align-items: flex-end;
+}
+span {
+    width: 50px;
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 50px;
+}
